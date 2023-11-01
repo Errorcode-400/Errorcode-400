@@ -1,2 +1,6 @@
 This is a simple collection of pretty simple codes that you may find useful, fun, or crazy!
-I will update this README.md when I have collected more codes.
+These bookmarklets are truly amazing, use them to prank or to do ...
+...anything, really!
+Use them to your advantage!
+Thanks!
+ - Errorcode_400
