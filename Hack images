@@ -1,0 +1,1 @@
+javascript:(function(){Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){el.src = 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5yc2I4cjVtMjB1ZXd5MHhidDQzMWk5b3hyN2J2cTRxZzV5d29jNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif';});}())
