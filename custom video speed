@@ -1,0 +1,1 @@
+javascript:(function(){x = prompt('Select Playback Rate:');document.querySelector('video').playbackRate = x;})();
